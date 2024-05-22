@@ -153,5 +153,6 @@ We would like to express our gratitude to the Flutter and Provider communities f
 
 **Contact**
 
-For any inquiries or support, please reach out to [ahmed.mahrous1092@gmail.com].
+For any inquiries or support, please reach out to [ahmed.mahrous1092@gmail.com],
+[amahrous022@gmail.com]
 
