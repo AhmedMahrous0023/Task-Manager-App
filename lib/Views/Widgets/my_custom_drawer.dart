@@ -71,14 +71,6 @@ class CustomDrawer extends StatelessWidget {
             ),
               ],
             ),
-            InkWell(
-              onTap: onTap,
-              child:const Card(
-                child: Padding(
-                  padding:  EdgeInsets.all(8.0),
-                  child: CustomText(text: 'My Added Tasks'),
-                ),),
-            ),
             
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
