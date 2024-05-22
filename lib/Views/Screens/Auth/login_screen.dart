@@ -106,28 +106,6 @@ class _LoginScreenState extends State<LoginScreen> {
                           print(e.toString());
                         }
                       })),
-              Padding(
-                padding: const EdgeInsets.only(
-                  top: 20.0,
-                ),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    const CustomText(
-                      text: " Don't have an account?",
-                      color: Colors.blueGrey,
-                    ),
-                    TextButton(
-                        onPressed: () {},
-                        child: const CustomText(
-                          text: 'Create account',
-                          color: Colors.blue,
-                          fontSize: 16,
-                          fontWeight: FontWeight.bold,
-                        ))
-                  ],
-                ),
-              )
             ],
           ),
         ),
